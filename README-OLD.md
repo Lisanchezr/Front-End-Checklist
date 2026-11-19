@@ -1,5 +1,7 @@
 # 🗂 Front-End Checklist
 
+LISTA
+
 The Front-End Checklist is an exhaustive list of all elements you need to have / to test before launching your website /
 HTML page to production.
 
